@@ -12,7 +12,7 @@
         <div class="container">
             <h4>Bazaar Info</h4>
             <p>Bazaar Outlet Pvt Ltd. is an Indian Clothing company based in New Delhi, Indian.
-            Created by Abhishek Sharma in 2018, , the company initially focused on Clothing Sales before expanding
+            Created by Abhishek Sharma in 2018, the company initially focused on Clothing Sales before expanding
             into other product categories such as consumer Clothing
             Fashion , and Lifestyle products.
             <br><br><br>
