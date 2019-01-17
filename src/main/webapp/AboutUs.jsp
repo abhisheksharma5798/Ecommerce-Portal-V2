@@ -1,8 +1,3 @@
-<%-- 
-    Document   : AboutUs
-    Created on : 9 Jan, 2019, 10:01:34 PM
-    Author     : innoc
---%>
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -15,7 +10,16 @@
     <body>
         <c:import url="/header.jsp"></c:import>
         <div class="container">
-            <h4>Company Info</h4>            
+            <h4>Bazaar Info</h4>
+            <p>Bazaar Outlet Pvt Ltd. is an Indian Clothing company based in New Delhi, Indian.
+            Created by Abhishek Sharma in 2018, , the company initially focused on Clothing Sales before expanding
+            into other product categories such as consumer Clothing
+            Fashion , and Lifestyle products.
+            <br><br><br>
+            Contact: +918933840577<br><br>
+            Customer Service : 1800 422 1541<br><br>
+            Email Us : projectdemo8080@gmail.com
+            </p>
         </div>
         
     </body>

@@ -22,19 +22,15 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-    <a class="navbar-brand" href="http://localhost:${pageContext.request.localPort}${pageContext.request.contextPath}/index.jsp">FabMart</a>
+    <a class="navbar-brand" href="http://localhost:${pageContext.request.localPort}${pageContext.request.contextPath}/index.jsp">Bazaar</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="/EcomProj/index.jsp">Home<span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/EcomProj/AboutUs.jsp">About Us</a>
-            </li>
+            
+            
         </ul>
 
 
@@ -78,10 +74,10 @@
             <c:otherwise>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/EcomProj/User/Login.jsp">Log In</a>
+                        <a class="nav-link" href="/EcomProj/User/Login.jsp"><b>Log In</b></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="http://localhost:8080/EcomProj/User/Registration.jsp">Registration</a>
+                        <a class="nav-link border border-gray-dark rounded-1 px-1 py-1" href="http://localhost:8080/EcomProj/User/Registration.jsp"><b>Sign Up</b></a>
                     </li>
                 </ul>
             </c:otherwise>

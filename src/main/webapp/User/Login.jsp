@@ -18,7 +18,7 @@
                 <input type="password" class="form-control" name="password" placeholder="Enter Password"><br>  
                 
                 
-                <a href="/EcomProj/User/ForgotPassword.jsp">forgot Password ?</a><br><br>
+                <a href="/EcomProj/User/ForgotPassword.jsp">Forgot Password</a><br><br>
                 <button class="btn btn-danger" type="submit">Submit</button>
             </form>
                 
